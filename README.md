@@ -30,7 +30,7 @@ pip install csv
 
 Cloner le dossier git sur votre machine et... c'est tout !
 
-Deux options s'offrent à vous : 1. Soit vous vous fichez de l'entreprise dont on fait l'analyse de sentiment et vous pouvez vous contenter de la section [`Commencer rapidement`](#Commencer rapidement) 2. Soit vous voulez choisir le sujet et vous devez suivre toute la pipeline du projet pas à pas [`Pas à pas`](#Pas à Pas)
+Deux options s'offrent à vous : 1. Soit vous vous fichez de l'entreprise dont on fait l'analyse de sentiment et vous pouvez vous contenter de la section `Commencer rapidement` 2. Soit vous voulez choisir le sujet et vous devez suivre toute la pipeline du projet pas à pas `Pas à pas`
 
 ### Commencer rapidement
 
@@ -81,7 +81,7 @@ Puis exécutez une seule fois le script.
 
 #### 3. Analyse
 
-Il ne vous reste plus qu'à faire la même chose que pour [`Commencer rapidement`](#Commencer rapidement) en changeant les valeurs des variables en bas des fichiers :
+Il ne vous reste plus qu'à faire la même chose que pour `Commencer rapidement` en changeant les valeurs des variables en bas des fichiers :
 
 ```python
 cheminTweetsTransformes = "../data/tweets/" + "exempleTweetsTransformes.txt"
@@ -101,4 +101,4 @@ La rédaction du code est assez maladroite, tout aurait pu être mieux fait mais
 
 ## Authors
 
-- **Bastien Velitchkine** - _Initial work_ - [Bassvelitchkine](https://github.com/Bassvelitchkine)
+- **Bastien Velitchkine** - [Bassvelitchkine](https://github.com/Bassvelitchkine)
