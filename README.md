@@ -30,9 +30,9 @@ pip install csv
 
 Cloner le dossier git sur votre machine et... c'est tout !
 
-Deux options s'offrent à vous : 1. Soit vous vous fichez de l'entreprise dont on fait l'analyse de sentiment et vous pouvez vous contenter de la section [Commencer rapidement](#Commencer rapidement) 2. Soit vous voulez choisir le sujet et vous devez suivre toute la pipeline du projet pas à pas [Pas à pas](#PasPas)
+Deux options s'offrent à vous : 1. Soit vous vous fichez de l'entreprise dont on fait l'analyse de sentiment et vous pouvez vous contenter de la section [`Commencer rapidement`](#Commencer rapidement) 2. Soit vous voulez choisir le sujet et vous devez suivre toute la pipeline du projet pas à pas [`Pas à pas`](#Pas à Pas)
 
-### [Commencer rapidement](#CommencerRapidement)
+### Commencer rapidement
 
 Nous avons récolté des données sur Coca-Cola. Ce sont donc les résultats de Coca-Cola que vous oberverez.
 
@@ -50,7 +50,7 @@ cheminTweets = "../data/tweets/" + "cocaTweetsTransformes.txt"
 
 Vous devriez voir s'afficher des graphes très simples à lire.
 
-### [Pas à Pas](#PasPas)
+### Pas à Pas
 
 #### 1. Collecte
 
@@ -81,7 +81,7 @@ Puis exécutez une seule fois le script.
 
 #### 3. Analyse
 
-Il ne vous reste plus qu'à faire la même chose que pour [Commencer rapidement](#CommencerRapidement) en changeant les valeurs des variables en bas des fichiers :
+Il ne vous reste plus qu'à faire la même chose que pour [`Commencer rapidement`](#Commencer rapidement) en changeant les valeurs des variables en bas des fichiers :
 
 ```python
 cheminTweetsTransformes = "../data/tweets/" + "exempleTweetsTransformes.txt"
